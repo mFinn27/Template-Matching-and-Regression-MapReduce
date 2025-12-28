@@ -1,0 +1,15 @@
+[2025-12-28 16:29:53] ================================================================================
+[2025-12-28 16:29:53] MAPPER STARTED - OPTIMIZED
+[2025-12-28 16:29:53] ================================================================================
+[2025-12-28 16:29:55] Model loaded: input_image
+[2025-12-28 16:29:55] Processing TAR #1: Easy_188.tar
+[2025-12-28 16:30:36] PROGRESS: Image 3
+[2025-12-28 16:31:12] PROGRESS: Image 6
+[2025-12-28 16:31:44] Batch uploaded 6 files to /user/hadoop/features_output/Easy
+[2025-12-28 16:31:44] TAR completed: 6 images
+[2025-12-28 16:31:44] Processing TAR #2: Easy_189.tar
+[2025-12-28 16:31:44] PROGRESS: TAR 2: Easy_189.tar
+[2025-12-28 16:32:16] PROGRESS: Image 9
+[2025-12-28 16:32:51] Batch uploaded 5 files to /user/hadoop/features_output/Easy
+[2025-12-28 16:32:51] TAR completed: 5 images
+[2025-12-28 16:32:51] MAPPER COMPLETED: 11 images processed

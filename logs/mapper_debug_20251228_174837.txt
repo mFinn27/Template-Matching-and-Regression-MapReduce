@@ -1,0 +1,14 @@
+[2025-12-28 17:48:37] MAPPER STARTED - Emit HDFS paths
+[2025-12-28 17:48:37] MAPPER STARTED - Emit HDFS paths
+[2025-12-28 17:48:39] Model loaded: input_image
+[2025-12-28 17:48:39] Processing TAR #1: Normal_190.tar
+[2025-12-28 17:48:39] Model loaded: input_image
+[2025-12-28 17:48:39] Processing TAR #1: Easy_188.tar
+[2025-12-28 17:50:33] TAR completed: 3 images
+[2025-12-28 17:50:33] Processing TAR #2: Normal_191.tar
+[2025-12-28 17:52:03] TAR completed: 6 images
+[2025-12-28 17:52:03] Processing TAR #2: Easy_189.tar
+[2025-12-28 17:52:11] TAR completed: 3 images
+[2025-12-28 17:52:11] MAPPER COMPLETED: 6 images processed
+[2025-12-28 17:54:16] TAR completed: 5 images
+[2025-12-28 17:54:16] MAPPER COMPLETED: 11 images processed

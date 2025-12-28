@@ -1,0 +1,14 @@
+[2025-12-28 16:29:54] ================================================================================
+[2025-12-28 16:29:54] MAPPER STARTED - OPTIMIZED
+[2025-12-28 16:29:54] ================================================================================
+[2025-12-28 16:29:56] Model loaded: input_image
+[2025-12-28 16:29:56] Processing TAR #1: Hard_190.tar
+[2025-12-28 16:30:41] PROGRESS: Image 3
+[2025-12-28 16:31:13] Batch uploaded 3 files to /user/hadoop/features_output/Hard
+[2025-12-28 16:31:13] TAR completed: 3 images
+[2025-12-28 16:31:13] Processing TAR #2: Hard_191.tar
+[2025-12-28 16:31:13] PROGRESS: TAR 2: Hard_191.tar
+[2025-12-28 16:31:48] PROGRESS: Image 6
+[2025-12-28 16:32:18] Batch uploaded 3 files to /user/hadoop/features_output/Hard
+[2025-12-28 16:32:18] TAR completed: 3 images
+[2025-12-28 16:32:18] MAPPER COMPLETED: 6 images processed

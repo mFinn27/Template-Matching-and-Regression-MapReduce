@@ -1,0 +1,10 @@
+__pycache__
+outputs*
+wandb
+checkpoints
+weights
+cache
+*.pt
+.gradio
+.vscode
+scripts_debugmodel.onnx
